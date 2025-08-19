@@ -1,6 +1,11 @@
 Manual Testing
 Basics, scope, 
 ---SDLC/STLC---
+Test Case writing - completed.
+Test Case vs Test Scenario
+watefall model
+priority vs seviroy 
+
 
 
 
@@ -8,3 +13,6 @@ Basics, scope,
 if else/ operators/ Dataypes, class object
 String comparision
 looping-- for loop
+Array , string comparision, etc 
+Inheritance
+final , override
