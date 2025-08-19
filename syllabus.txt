@@ -1,0 +1,10 @@
+Manual Testing
+Basics, scope, 
+---SDLC/STLC---
+
+
+
+---Java---
+if else/ operators/ Dataypes, class object
+String comparision
+looping-- for loop
