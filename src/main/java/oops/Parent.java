@@ -2,13 +2,13 @@ package oops;
 
 public class Parent 
 {
-	public void property()
+	public final void property()
 	{
-		System.out.println("Father has property");
+		System.out.println("Father distribute half property to each");
 	}
-	public void illness()
+	public  void diabetes()
 	{
-		System.out.println("Father has illness");
+		System.out.println("Father has type 2 diabetes");
 	}
 
 }

@@ -11,8 +11,8 @@ public class Main {
 		
 		Child c= new Child();
 		
-		c.illness();
-		c.property();
+		c.diabetes();
+		c.childUsesCellPhoneTooMuch();
 		
 	}
 
